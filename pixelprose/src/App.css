@@ -1,0 +1,43 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.content {
+  padding: 40px;
+}
+
+section {
+  margin: 40px 0;
+}
+
+section h2 {
+  font-size: 24px;
+}
+
+section p {
+  font-size: 16px;
+}
